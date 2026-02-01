@@ -14,6 +14,7 @@
 Constructing and guest alien words.
 
 ============================================
+
 【Playloop / Instruction】
 
 The player randomly chooses the topic (a noun), for example, "spade", but DO NOT reveal the topic at this time.
